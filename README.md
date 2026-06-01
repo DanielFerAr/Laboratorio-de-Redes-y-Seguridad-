@@ -141,3 +141,22 @@ Puedes usar:
 - Reglas básicas de firewall
 - Segmentación de red
 - Buenas prácticas de seguridad
+
+# Tecnologías Utilizadas
+
+| Tecnología  | 	Uso |
+| ------------- | ------------- |
+| Wireshark | Análisis de tráfico  |
+| Nmap | Escaneo de puertos y servicios  |
+| Windows/Linux Tools  | Troubleshooting  |
+| Firewall (Windows/UFW)  | Hardening  |
+| Virtualización  | Laboratorio aislado  |
+# Autor
+Daniel Fernandez
+
+Proyecto orientado a demostrar habilidades en:
+- Redes
+- Seguridad básica
+- Troubleshooting
+- Análisis de tráfico
+- Enumeración de servicios
